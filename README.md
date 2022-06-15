@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sanketlakhera.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning full stack developement in MEAN & MERN stack.
+- 🌱 I’m currently learning full stack developement in MEAN stack.
 - 💞️ I’m looking to collaborate on Web development.
 - 📫 How to reach me @codersanket.
 
