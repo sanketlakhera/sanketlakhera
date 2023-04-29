@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @sanketlakhera.<br>👀 I’m interested in programming & tech<br>💞️ I’m looking to collaborate on Web development.<br>📫 How to reach me T/@codersanket.<br>
+👋 Hi, I’m @sanketlakhera and I'm Full Stack Web Developer.<br>👀 I’m interested in programming & tech<br>💞️ I’m looking to collaborate on Web development.<br>📫 How to reach me T/@codersanket.<br>
 
 
 ## 🌐 Socials:
