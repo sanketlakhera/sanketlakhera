@@ -20,6 +20,9 @@ Passionate about moving close to the machine, the network, and protocol layers:
 
 ### 🚀 Selected Projects
 
+- **[blockchain-indexer](https://github.com/sanketlakhera/blockchain-indexer)**  
+  High-throughput Ethereum blockchain indexer in Rust using Tokio, Alloy, and transactional PostgreSQL persistence. Features compile-time ABI decoding (`alloy::sol!`), relational schema indexing, and strict ACID persistence boundaries.
+
 - **[trade-engine-in-rust](https://github.com/sanketlakhera/trade-engine-in-rust)**  
   In-memory limit orderbook matching engine in Rust with multi-market support, BTreeMap price levels, and price-time priority execution.
 
