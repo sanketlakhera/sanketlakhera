@@ -39,4 +39,3 @@ Passionate about moving close to the machine, the network, and protocol layers:
 
 ### 🌐 Connect
 - **X (Twitter):** [@codersanket](https://twitter.com/codersanket)
-- **GitHub:** [@sanketlakhera](https://github.com/sanketlakhera)
